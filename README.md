@@ -1,4 +1,5 @@
 ### SQL-AND-T-SQL-QUERIES###-
+![SQL](https://github.com/user-attachments/assets/8354e85b-ad2c-417c-b84e-c56c1ccc1f75)
 
 
 1. QUERY: SELECT BusinessEntityID,

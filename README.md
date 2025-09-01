@@ -52,4 +52,8 @@ FROM HumanResources.vEmployee
 WHERE FirstName = @FirstNameVariable
     OR PostalCode = @PostalCodeVariable;**
 
+Results - 
+<img width="731" height="147" alt="DECLARING AND USING VARIABLES" src="https://github.com/user-attachments/assets/58eff1ce-30f1-477f-a8b5-e0c3003e5aad" />
+
+
    

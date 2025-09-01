@@ -28,10 +28,13 @@ For U.S. salespeople: Sort by their TerritoryName.
 For all other countries: Sort alphabetically by CountryRegionName.
 
 This makes it easier to group U.S. territories together while still keeping international entries logically ordered.
-RESULTS
+
+**RESULTS**
+
 <img width="1242" height="589" alt="CASEVSTATEMENT" src="https://github.com/user-attachments/assets/5eca55b6-0e92-4cc0-bf32-c9ef815e5b0d" />
 
 DECLARING AND USING VARIABLES
+
 3.  QUERY
    **USE AdventureWorks2019;
 GO

@@ -1,4 +1,7 @@
 ### SQL-AND-T-SQL-QUERIES###-
+
+This page Gives indepth details of various sql queries and thier related results. These are related to different T-SQL concepts using CTE'S case, subqueries etc
+
 ![SQL](https://github.com/user-attachments/assets/8354e85b-ad2c-417c-b84e-c56c1ccc1f75)
 
 
@@ -58,5 +61,5 @@ WHERE FirstName = @FirstNameVariable
 Results - 
 <img width="731" height="147" alt="DECLARING AND USING VARIABLES" src="https://github.com/user-attachments/assets/58eff1ce-30f1-477f-a8b5-e0c3003e5aad" />
 
-
+5. 
    

@@ -61,5 +61,7 @@ WHERE FirstName = @FirstNameVariable
 Results - 
 <img width="731" height="147" alt="DECLARING AND USING VARIABLES" src="https://github.com/user-attachments/assets/58eff1ce-30f1-477f-a8b5-e0c3003e5aad" />
 
-5. 
+5. Use scalar or multi-valued subqueries
+
+   A scalar subquery is an inner SELECT statement within an outer query, written to return a single value. Scalar subqueries might be used anywhere in an outer T-SQL statement where a single-valued expression is permitted—such as in a SELECT clause, a WHERE clause, a HAVING clause, or even a FROM clause. They can also be used in data modification statements, such as UPDATE or DELETE.
    

@@ -67,3 +67,7 @@ Results -
 
 6.  Differentiate between SQL and T-SQL.
 SQL is a standard query language for managing and manipulating relational databases. T-SQL is an extension of SQL, providing additional functionality like control-of-flow statements (IF, WHILE), local variables, stored procedures, functions, and triggers, specifically for Microsoft SQL Server.
+
+7.  What are Stored Procedures and their benefits?
+A stored procedure is a pre-compiled set of T-SQL statements stored in the database.
+Benefits: Improved performance (pre-compiled), reduced network traffic, enhanced security (permissions can be granted only on the procedure), reusability, and easier maintenance.

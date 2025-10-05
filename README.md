@@ -64,4 +64,6 @@ Results -
 5. Use scalar or multi-valued subqueries
 
    A scalar subquery is an inner SELECT statement within an outer query, written to return a single value. Scalar subqueries might be used anywhere in an outer T-SQL statement where a single-valued expression is permitted—such as in a SELECT clause, a WHERE clause, a HAVING clause, or even a FROM clause. They can also be used in data modification statements, such as UPDATE or DELETE.
-   
+
+6.  Differentiate between SQL and T-SQL.
+SQL is a standard query language for managing and manipulating relational databases. T-SQL is an extension of SQL, providing additional functionality like control-of-flow statements (IF, WHILE), local variables, stored procedures, functions, and triggers, specifically for Microsoft SQL Server.

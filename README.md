@@ -90,3 +90,4 @@ Simplification: Presenting complex queries as a single, simpler virtual table.
 Data Consistency: Ensuring consistent data presentation across applications.
 
 11. What are INDEXes and why are they important?
+    An INDEX is a database object that provides fast access to data in tables. It works like an index in a book, allowing the database engine to quickly locate specific rows without scanning the entire table. Indexes improve query performance for SELECT statements but can slow down INSERT, UPDATE, and DELETE operations.

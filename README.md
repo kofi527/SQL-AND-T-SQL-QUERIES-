@@ -82,3 +82,9 @@ It selects all rows from the Employees table.
 9.  What are Stored Procedures and their benefits?
 A stored procedure is a pre-compiled set of T-SQL statements stored in the database.
 Benefits: Improved performance (pre-compiled), reduced network traffic, enhanced security (permissions can be granted only on the procedure), reusability, and easier maintenance.
+
+10. What are VIEWs in T-SQL and when would you use them
+    A VIEW is a virtual table based on the result-set of a SQL query. It does not store data itself but presents data from one or more underlying tables. Views are used for:
+Security: Restricting user access to specific columns or rows.
+Simplification: Presenting complex queries as a single, simpler virtual table.
+Data Consistency: Ensuring consistent data presentation across applications.

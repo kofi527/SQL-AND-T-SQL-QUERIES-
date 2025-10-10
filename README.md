@@ -88,3 +88,5 @@ Benefits: Improved performance (pre-compiled), reduced network traffic, enhanced
 Security: Restricting user access to specific columns or rows.
 Simplification: Presenting complex queries as a single, simpler virtual table.
 Data Consistency: Ensuring consistent data presentation across applications.
+
+11. What are INDEXes and why are they important?

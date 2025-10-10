@@ -91,3 +91,10 @@ Data Consistency: Ensuring consistent data presentation across applications.
 
 11. What are INDEXes and why are they important?
     An INDEX is a database object that provides fast access to data in tables. It works like an index in a book, allowing the database engine to quickly locate specific rows without scanning the entire table. Indexes improve query performance for SELECT statements but can slow down INSERT, UPDATE, and DELETE operations.
+
+12. Explain the concept of ACID properties in transactions.
+    ACID stands for Atomicity, Consistency, Isolation, and Durability, which are fundamental properties ensuring reliable transaction processing:
+Atomicity: A transaction is treated as a single, indivisible unit; either all its operations succeed, or none of them do.
+Consistency: A transaction brings the database from one valid state to another, maintaining all defined rules and constraints.
+Isolation: Concurrent transactions execute independently, appearing as if they are running sequentially, preventing interference.
+Durability: Once a transaction is committed, its changes are permanently stored and survive system failures.

@@ -36,9 +36,9 @@ This makes it easier to group U.S. territories together while still keeping inte
 
 <img width="1242" height="589" alt="CASEVSTATEMENT" src="https://github.com/user-attachments/assets/5eca55b6-0e92-4cc0-bf32-c9ef815e5b0d" />
 
-DECLARING AND USING VARIABLES
+DECLARING AND USING VARIABLES 
 
-3.  QUERY
+3.  QUERY FROM ADVENTUREWORKS 
    **USE AdventureWorks2019;
 GO
 -- Declare two variables.

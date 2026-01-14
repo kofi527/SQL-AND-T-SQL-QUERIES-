@@ -1,6 +1,7 @@
 ### SQL-AND-T-SQL-QUERIES###-
 
 This page Gives indepth details of various sql queries and thier related results. These are related to different T-SQL concepts using CTE'S case, subqueries etc
+This include writing efficient sql queries and optimization strategies to retrieve data from a database
 
 ![SQL](https://github.com/user-attachments/assets/8354e85b-ad2c-417c-b84e-c56c1ccc1f75)
 
